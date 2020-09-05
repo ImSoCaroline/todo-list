@@ -1,0 +1,9 @@
+.profile {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.photo {
+  width: 100px;
+  border-radius: 50%;
+}
